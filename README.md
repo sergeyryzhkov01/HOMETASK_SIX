@@ -32,7 +32,7 @@
 
 ### Блок-схема
 
-<img width="482" height="761" alt="image" src="https://github.com/user-attachments/assets/fd2d036b-e50e-49ef-a9c1-1bcbd75127a4" />
+<img width="585" height="755" alt="image" src="https://github.com/user-attachments/assets/165dc891-2f66-4d7c-9794-bb854b455702" />
 
 
 ## 2. Реализация программы
